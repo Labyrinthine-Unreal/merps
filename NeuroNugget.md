@@ -55,7 +55,7 @@ This script significantly enhances the interactive capabilities of TechTot, allo
 
 ### 5. ML Agents (Summary Integrated)
 
-In Unity ML-Agents, the `mlagents.camera` sensor and the `vis_encode_type` parameter are used to capture and process visual observations from the agent's perspective during reinforcement learning. These components enable the agent to "see" its environment and make decisions based on visual data. The choice of sensor configuration and encoding type depends on the specific requirements and complexity of your reinforcement learning task.
+In Unity ML-Agents, the `mlagents.camera` sensor and the `vis_encode_type` parameter are used to capture and process visual observations from the agent's perspective during reinforcement learning. These components enable the agent to "see" its environment and make decisions based on visual data. The choice of sensor configuration and encoding type depends on the specific requirements and complexity of TechTots reinforcement learning task.
 
 ### 6. FaunaDB
 
@@ -91,6 +91,6 @@ These collections collectively enable secure and transparent data management, en
 
 ## Setup
 
-Follow these steps to set up the NeuroNugget stack for your TechTots project:
+Follow these steps to set up the NeuroNugget stack for TechTots TechTots project:
 
 1. Clone the NeuroNugget repository:
